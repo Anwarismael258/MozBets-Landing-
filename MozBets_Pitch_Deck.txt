@@ -1,0 +1,53 @@
+MozBets Pitch Deck
+===================
+
+1. Nome do Projeto:
+   - MozBets
+
+2. Slogan:
+   - "Joga, Vence, Celebra com a MozBets!"
+
+3. Fundador:
+   - Anwar Ismael
+
+4. Visão:
+   - Tornar-se a plataforma de apostas esportivas líder em Moçambique, com jogos como Aviator, Plinko, Raspadinhas e apostas ao vivo.
+
+5. Problema:
+   - A falta de uma plataforma nacional moderna, acessível e segura para apostas esportivas com foco local.
+
+6. Solução:
+   - Um app móvel com suporte em português, rápido, seguro e personalizado com identidade nacional.
+
+7. Proposta de Valor:
+   - Plataforma 100% moçambicana
+   - Suporte a M-Pesa e outras carteiras digitais
+   - Interface nas cores da bandeira nacional
+   - Apostas fictícias e jogos populares
+
+8. Mercado-Alvo:
+   - Jovens adultos (18-35 anos)
+   - Aficionados por esportes, jogos e entretenimento
+   - Usuários de Android em Moçambique
+
+9. Estratégia de Monetização:
+   - Comissão sobre cada aposta feita
+   - Compra de moedas virtuais
+   - Parcerias com clubes e influenciadores locais
+
+10. Estratégia de Marketing:
+    - Redes sociais (TikTok, Facebook, Instagram)
+    - Influenciadores moçambicanos
+    - Campanhas com prémios e bônus de boas-vindas
+
+11. Time:
+    - Fundador: Anwar Ismael
+    - Desenvolvedores parceiros e assistente digital
+
+12. Próximos Passos:
+    - Lançar versão beta (.apk)
+    - Obter feedback de usuários
+    - Parcerias estratégicas e busca de investidores
+
+13. Contatos:
+    - Email: anwarismael258@gmail.com
